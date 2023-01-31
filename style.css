@@ -1,0 +1,8 @@
+/* style.css */
+html{
+	font-size: 16px;
+}
+
+.alert-text:hover{
+	font-size: 40px; 
+}
